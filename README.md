@@ -1,4 +1,4 @@
-## Oi, Eu sou a Anália Beatriz
+## Hey, Welcome to my GitHub 
 My email: Analia.bbeatriz13@gmail.com 
 
 <div>
