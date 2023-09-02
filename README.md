@@ -8,8 +8,6 @@ My email: Analia.bbeatriz13@gmail.com
 </div>
 
 
-  ![Snake animation](https://github.com/analia-beatriz/analia-beatriz/blob/output/github-contribution-grid-snake.svg)
-
   
   
  
