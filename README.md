@@ -1,5 +1,4 @@
-## Hey, Welcome to my GitHub 
-My email: Analia.bbeatriz13@gmail.com 
+## Hey 
 
 <div>
   <a href="https://github.com/analia-beatriz">
